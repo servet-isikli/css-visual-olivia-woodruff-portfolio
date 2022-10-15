@@ -1,3 +1,3 @@
 - Olivia Woodruff Portfolio - codecademy.com
 - HTML - CSS training
-- https://servetisikli.github.io/css-selectors-healthy-recipes
+- https://servetisikli.github.io/css-visual-olivia-woodruff-portfolio
